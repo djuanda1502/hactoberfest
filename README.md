@@ -1,3 +1,3 @@
-# hactoberfest emang mantep saya pengan baju
+# hactoberfest 1
 https://hacktoberfest.digitalocean.com/
 
